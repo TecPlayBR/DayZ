@@ -1,0 +1,35 @@
+@500 bullet stack
+@AC-Mod-Pack
+@AC-Mod-Sample
+@Airdrop-Upgraded
+@BaseBuildingPlus
+@Basic Map
+@BBPItemPack
+@CarCover
+@CF
+@CJ187-MoreCars
+@CJ187-MoreDrinks
+@CJ187-MoreItems
+@CJ187-MoreMagazines
+@Community-Online-Tools
+@Dabs Framework
+@DayZ-Expansion-AI
+@DayZ-Expansion-Core
+@Inventory Move Sounds
+@MMG - Mightys Military Gear
+@MoreFood;@Notifications
+@PVEZ;@RedFalcon Flight System Heliz
+@RUSForma_Motorcycles;@SchanaModCompass
+@SchanaParty;@SNAFU Weapons
+@TecPlay-Screen;@TraderPlus
+@TraderPlus_Disable_DeployVehicles
+@ZomBerry Admin Tools
+@RedFalcon Watercraft
+@Advanced Weapon Scopes
+@FlipTransport
+@GoreZ
+@SchanaModGlobalChat
+@Survivor Animations
+@UniversalSuppressor
+@Vehicle Shooting
+@My Delta Force Medical

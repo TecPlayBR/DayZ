@@ -1,0 +1,50 @@
+{
+    "Triggers":
+	[
+		{ 	
+			"Name": "Mini Petrovka Bunker",
+			"Position": [ 3485, 208, 12655 ],
+			"Orientation": [ 9, 0, 0 ],
+			"Size": [ 27, 15, 27 ],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": []
+		},		
+		{ 	
+			"Position": [ 3486, 208, 12674 ],
+			"Orientation": [ 9, 0, 0 ],
+			"Size": [ 24, 15, 24 ],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": []
+		},	
+		{ 	
+			"Position": [ 3500, 208, 12671 ],
+			"Orientation": [ 9, 0, 0 ],
+			"Size": [ 30, 15, 30 ],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": []
+		},
+		{ 	
+			"Position": [ 3473, 208, 12686 ],
+			"Orientation": [ 9, 0, 0 ],
+			"Size": [ 7, 15, 7 ],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": []
+		},
+		{
+			"Name": "Bunker Ilha de Berezino Entrada",
+			"Position": [ 13716.7, 21.5103, 10015.8],
+			"Orientation": [0, 0, 0],
+			"Size": [14, 10, 20],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": []
+		},
+		{
+			"Name": "Bunker Ilha de Berezino Escadaria",
+			"Position": [ 13731.5, 21.52, 10015.7],
+			"Orientation": [89, 0, 0],
+			"Size": [11, 30, 14],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": []
+		}
+	]
+}

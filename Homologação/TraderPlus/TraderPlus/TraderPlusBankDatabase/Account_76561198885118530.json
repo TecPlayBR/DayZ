@@ -1,0 +1,13 @@
+{
+    "Version": "2.5",
+    "SteamID64": "76561198885118530",
+    "Name": "TecPlay_BR",
+    "MoneyAmount": 350000,
+    "MaxAmount": 1000000000,
+    "Licences": [
+        "CNH",
+        "CRAF",
+        "ALVARA"
+    ],
+    "Insurances": {}
+}

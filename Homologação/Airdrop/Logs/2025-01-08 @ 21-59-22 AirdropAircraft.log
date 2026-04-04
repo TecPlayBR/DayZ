@@ -1,0 +1,22 @@
+2025-01-08 @ 21-59-22:  [InitializeAirDropAircraft] Aircraft created on 2025-01-08 @ 21-59-22
+2025-01-08 @ 21-59-22:  [InitializeAirDropAircraft] Zombie list 'Country' was found containing 41 zombies.
+2025-01-08 @ 21-59-22:  [InitializeAirDropAircraft] Spawning Requested Zombies (10).
+2025-01-08 @ 21-59-22:  [InitializeAirDropAircraft] Lifespan: Overriden to 30 minute(s).
+2025-01-08 @ 21-59-22:  [InitializeAirDropAircraft] Number of Zombies to spawn: 10.
+2025-01-08 @ 21-59-22:  [InitializeAirDropAircraft] Aircraft Initialized: Player Called @ 2695.64/1310.6 (false)
+2025-01-08 @ 21-59-42:  [EOnSpawnZombies] Zombie Spawned [1] ZmbF_VillagerOld_Red @ <2704.448242, -0.229665, 1345.375244>
+2025-01-08 @ 22-00-03:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_HunterOld_Autumn @ <2683.137695, 0.569736, 1362.427490>
+2025-01-08 @ 22-00-23:  [EOnSpawnZombies] Zombie Spawned [3] ZmbF_VillagerOld_Green @ <2713.989014, 4.188592, 1340.713867>
+2025-01-08 @ 22-00-44:  [EOnSpawnZombies] Spawn failed for zombie [4] 'ZmbM_SurvivorDean_Grey', does not exist in DayZ!
+2025-01-08 @ 22-01-04:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_FarmerFat_Beige @ <2737.475586, 2.074586, 1347.065308>
+2025-01-08 @ 22-01-24:  [EOnSpawnZombies] Zombie Spawned [6] ZmbF_MilkMaidOld_Beige @ <2719.788330, 23.362497, 1316.236816>
+2025-01-08 @ 22-01-45:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_VillagerOld_White @ <2714.270264, 12.938381, 1331.068237>
+2025-01-08 @ 22-02-05:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_FarmerFat_Beige @ <2721.403564, 23.376629, 1314.263550>
+2025-01-08 @ 22-02-26:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_HermitSkinny_Black @ <2678.048828, 1.164141, 1321.477173>
+2025-01-08 @ 22-02-27:  [EOnBeforeDrop] The Aircraft is 1 Km from the called location, from the North/East (053°). @ <3890.979492, 155.415405, 2216.700439>
+2025-01-08 @ 22-02-47:  [EOnDrop] Drop spawned with 10 infected at <2688.270508, 103.259918, 1318.847412>.
+2025-01-08 @ 22-02-47:  [EOnDrop] Supplies have been dropped near called location.
+2025-01-08 @ 22-03-15:  [EOnBeforeDelete] Aircraft despawned @ <921.304504, 152.000610, -0.191504>
+2025-01-08 @ 22-03-15:  [EOnBeforeDelete] Aircraft has flown OFF the map.
+2025-01-08 @ 22-03-15:  [~AirdropPlane] Aircraft destroyed.
+2025-01-08 @ 22-03-15:  [~AirdropPlane] Aircraft log file closed.

@@ -1,0 +1,42 @@
+2025-01-08 @ 22-02-00:  [InitializeAirDropAircraft] Aircraft created on 2025-01-08 @ 22-02-00
+2025-01-08 @ 22-02-00:  [InitializeAirDropAircraft] Zombie list 'Industrial' was found containing 30 zombies.
+2025-01-08 @ 22-02-00:  [InitializeAirDropAircraft] Spawning Requested Zombies (30).
+2025-01-08 @ 22-02-00:  [InitializeAirDropAircraft] Lifespan: Overriden to 30 minute(s).
+2025-01-08 @ 22-02-00:  [InitializeAirDropAircraft] Number of Zombies to spawn: 30.
+2025-01-08 @ 22-02-00:  [InitializeAirDropAircraft] Aircraft Initialized: Berezino @ 12450/9250 (true)
+2025-01-08 @ 22-02-06:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_MechanicSkinny_Green @ <12461.265625, 18.559994, 9265.906250>
+2025-01-08 @ 22-02-13:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_ConstrWorkerNormal_Grey @ <12445.593750, 20.047745, 9258.100586>
+2025-01-08 @ 22-02-19:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_MechanicSkinny_Grey @ <12474.368164, 17.156151, 9270.061523>
+2025-01-08 @ 22-02-25:  [EOnSpawnZombies] Zombie Spawned [4] ZmbF_BlueCollarFat_Red @ <12425.698242, 21.642138, 9282.990234>
+2025-01-08 @ 22-02-31:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_FishermanOld_Green @ <12470.393555, 17.655840, 9278.478516>
+2025-01-08 @ 22-02-38:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_HandymanNormal_Grey @ <12450.304688, 19.679729, 9266.307617>
+2025-01-08 @ 22-02-44:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_OffshoreWorker_Red @ <12481.020508, 16.389315, 9269.659180>
+2025-01-08 @ 22-02-50:  [EOnSpawnZombies] Zombie Spawned [8] ZmbF_MechanicNormal_Beige @ <12441.631836, 20.483475, 9268.911133>
+2025-01-08 @ 22-02-56:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_FishermanOld_Grey @ <12445.162109, 20.157789, 9272.029297>
+2025-01-08 @ 22-03-03:  [EOnSpawnZombies] Zombie Spawned [10] ZmbM_HeavyIndustryWorker @ <12455.229492, 19.216932, 9268.827148>
+2025-01-08 @ 22-03-09:  [EOnSpawnZombies] Zombie Spawned [11] ZmbM_ConstrWorkerNormal_Grey @ <12463.078125, 18.278887, 9259.013672>
+2025-01-08 @ 22-03-15:  [EOnSpawnZombies] Zombie Spawned [12] ZmbM_HandymanNormal_Green @ <12437.650391, 20.767847, 9253.898438>
+2025-01-08 @ 22-03-21:  [EOnSpawnZombies] Zombie Spawned [13] ZmbM_FishermanOld_Green @ <12445.775391, 20.079302, 9278.696289>
+2025-01-08 @ 22-03-28:  [EOnSpawnZombies] Zombie Spawned [14] ZmbM_FishermanOld_Blue @ <12440.501953, 20.526814, 9257.181641>
+2025-01-08 @ 22-03-34:  [EOnSpawnZombies] Zombie Spawned [15] ZmbF_BlueCollarFat_Green @ <12457.450195, 18.911705, 9235.589844>
+2025-01-08 @ 22-03-40:  [EOnSpawnZombies] Zombie Spawned [16] ZmbF_BlueCollarFat_Green @ <12421.262695, 22.558882, 9235.081055>
+2025-01-08 @ 22-03-46:  [EOnSpawnZombies] Zombie Spawned [17] ZmbM_MechanicSkinny_Blue @ <12416.889648, 22.500427, 9276.876953>
+2025-01-08 @ 22-03-53:  [EOnSpawnZombies] Zombie Spawned [18] ZmbM_FirefighterNormal @ <12442.099609, 20.433716, 9265.690430>
+2025-01-08 @ 22-03-59:  [EOnSpawnZombies] Zombie Spawned [19] ZmbM_OffshoreWorker_Green @ <12454.452148, 19.307215, 9274.815430>
+2025-01-08 @ 22-04-05:  [EOnSpawnZombies] Zombie Spawned [20] ZmbF_MechanicNormal_Grey @ <12412.086914, 23.233950, 9257.153320>
+2025-01-08 @ 22-04-11:  [EOnSpawnZombies] Zombie Spawned [21] ZmbF_BlueCollarFat_White @ <12413.837891, 23.002935, 9263.982422>
+2025-01-08 @ 22-04-18:  [EOnSpawnZombies] Zombie Spawned [22] ZmbM_OffshoreWorker_Orange @ <12456.376953, 19.090471, 9288.350586>
+2025-01-08 @ 22-04-24:  [EOnSpawnZombies] Zombie Spawned [23] ZmbM_ConstrWorkerNormal_Black @ <12445.544922, 19.891342, 9245.351563>
+2025-01-08 @ 22-04-30:  [EOnSpawnZombies] Zombie Spawned [24] ZmbM_MechanicSkinny_Green @ <12467.346680, 17.994972, 9277.181641>
+2025-01-08 @ 22-04-36:  [EOnSpawnZombies] Zombie Spawned [25] ZmbM_OffshoreWorker_Yellow @ <12416.023438, 22.621136, 9274.122070>
+2025-01-08 @ 22-04-43:  [EOnSpawnZombies] Zombie Spawned [26] ZmbM_OffshoreWorker_Red @ <12431.999023, 21.343744, 9266.351563>
+2025-01-08 @ 22-04-48:  [EOnBeforeDrop] The Aircraft is 1 Km from Berezino, from the South/West (239°). @ <11152.814453, 424.533386, 8497.255859>
+2025-01-08 @ 22-04-49:  [EOnSpawnZombies] Zombie Spawned [27] ZmbM_ConstrWorkerNormal_Green @ <12454.720703, 19.195307, 9261.089844>
+2025-01-08 @ 22-04-55:  [EOnSpawnZombies] Zombie Spawned [28] ZmbM_OffshoreWorker_Green @ <12457.343750, 19.030890, 9285.324219>
+2025-01-08 @ 22-05-01:  [EOnSpawnZombies] Zombie Spawned [29] ZmbM_FishermanOld_Red @ <12448.875000, 19.823818, 9277.726563>
+2025-01-08 @ 22-05-08:  [EOnDrop] Drop spawned with 30 infected at <12444.416016, 134.099976, 9261.580078>.
+2025-01-08 @ 22-05-08:  [EOnDrop] Supplies have been dropped near Berezino.
+2025-01-08 @ 22-05-52:  [EOnBeforeDelete] Aircraft despawned @ <15361.310547, 152.000610, 10987.695313>
+2025-01-08 @ 22-05-52:  [EOnBeforeDelete] Aircraft has flown OFF the map.
+2025-01-08 @ 22-05-52:  [~AirdropPlane] Aircraft destroyed.
+2025-01-08 @ 22-05-52:  [~AirdropPlane] Aircraft log file closed.

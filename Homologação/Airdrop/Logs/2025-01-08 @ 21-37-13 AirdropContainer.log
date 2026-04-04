@@ -1,0 +1,44 @@
+2025-01-08 @ 21-37-13:  [InitializeContainer] Winds: Vector <-0.000001, 0.000000, -7.295450>, Speed 7.29545mps, Strength 0.1
+2025-01-08 @ 21-37-13:  [InitializeContainer] Parachute created on @ <12457.003906, 173.896133, 9229.660156>
+2025-01-08 @ 21-37-35:  [AirdropContainerFall] Airdrop Container Touchdown @ <12457.003906, 20.069412, 9229.660156>
+2025-01-08 @ 21-37-35:  [ADU_RemoveParachute] Parachute removed.
+2025-01-08 @ 21-37-35:  [ADU_RepositionContainer] Container repositioned.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Drop Type 'Misc. Tools', Container: 'RANDOM', Mode/Quantity/Iems: Random/35/50, Flare:  10%
+2025-01-08 @ 21-37-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Wrench (Printine) @ <12458.244141, 19.085106, 9231.582031> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Megaphone (Worn) @ <12455.666016, 19.405102, 9230.531250> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] CableReel (Printine) @ <12455.191406, 19.686947, 9227.074219> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Chemlight_White (Printine) @ <12458.084961, 19.090523, 9231.746094> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Headtorch_Grey (Printine) @ <12458.898438, 19.014704, 9231.585938> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Chemlight_Green (Printine) @ <12456.306641, 19.231907, 9232.179688> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] PortableGasStove (Printine) @ <12457.470703, 19.465382, 9227.267578> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Hacksaw (Worn) @ <12458.102539, 19.425053, 9226.894531> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] SewingKit (Worn) @ <12456.803711, 19.134235, 9233.137695> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Battery9V (Printine) @ <12458.679688, 19.072687, 9231.100586> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Compass (Worn) @ <12455.459961, 19.470985, 9229.855469> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Chemlight_White (Printine) @ <12455.650391, 19.287981, 9232.242188> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Wrench (Printine) @ <12454.298828, 19.712400, 9227.883789> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] HuntingKnife (Worn) @ <12458.208008, 19.366421, 9227.580078> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] WoodAxe (Worn) @ <12460.230469, 18.917505, 9230.937500> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Whetstone (Worn) @ <12459.449219, 19.189251, 9228.250000> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Chemlight_Green (Worn) @ <12458.560547, 19.305424, 9227.924805> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] SewingKit (Worn) @ <12454.503906, 19.606653, 9229.166992> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Hacksaw (Printine) @ <12458.751953, 19.336304, 9227.188477> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] PortableGasStove (Printine) @ <12457.932617, 19.066614, 9232.313477> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] KitchenKnife (Worn) @ <12458.844727, 18.974228, 9232.227539> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Spotlight (Printine) @ <12458.574219, 19.171057, 9229.841797> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] PortableGasStove (Worn) @ <12458.253906, 19.423424, 9226.688477> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Chemlight_Red (Worn) @ <12458.326172, 19.372957, 9227.306641> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Spotlight (Printine) @ <12454.661133, 19.528816, 9230.081055> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Screwdriver (Worn) @ <12454.778320, 19.517464, 9230.088867> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] SewingKit (Worn) @ <12458.203125, 18.999235, 9232.894531> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Roadflare (Printine) @ <12458.207031, 19.089186, 9231.580078> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] CombatKnife (Printine) @ <12454.097656, 19.521034, 9230.941406> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Machete (Worn) @ <12460.316406, 18.929502, 9230.641602> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] ElectronicRepairKit (Worn) @ <12458.284180, 19.132818, 9230.833984> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] WeaponCleaningKit (Printine) @ <12458.552734, 19.402996, 9226.528320> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Heatpack (Worn) @ <12459.024414, 19.333973, 9226.807617> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] PortableGasStove (Worn) @ <12454.691406, 19.573898, 9229.390625> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  [ADU_SpawnItems] Loot Spawned [0] Machete (Worn) @ <12457.294922, 19.111307, 9232.660156> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-37-35:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 21-37-35:  [EOnSimulate] Airdrop Container deactivated.

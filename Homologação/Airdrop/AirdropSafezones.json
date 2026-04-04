@@ -1,0 +1,25 @@
+{
+    "SafeZones": [
+        {
+            "Title": "Green Mountain",
+            "Message": "Você não pode chamar o airdrop nesta área! Airdrop cancelado!",
+            "X": 9999,
+            "Z": 9999,
+            "Radius": 500
+        },
+        {
+            "Title": "Kumyrna",
+            "Message": "Você não pode chamar o airdrop nesta área! Airdrop cancelado!",
+            "X": 2222,
+            "Z": 2222,
+            "Radius": 500
+        },
+        {
+            "Title": "Ilha Skalisty",
+            "Message": "Você não pode chamar o airdrop nesta área! Airdrop cancelado!",
+            "X": 13578,
+            "Z": 3116,
+            "Radius": 600
+        }
+    ]
+}

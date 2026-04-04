@@ -1,0 +1,22 @@
+2025-01-08 @ 21-45-32:  [InitializeAirDropAircraft] Aircraft created on 2025-01-08 @ 21-45-32
+2025-01-08 @ 21-45-32:  [InitializeAirDropAircraft] Zombie list 'Military' was found containing 5 zombies.
+2025-01-08 @ 21-45-32:  [InitializeAirDropAircraft] Spawning Requested Zombies (10).
+2025-01-08 @ 21-45-32:  [InitializeAirDropAircraft] Lifespan: Overriden to 30 minute(s).
+2025-01-08 @ 21-45-32:  [InitializeAirDropAircraft] Number of Zombies to spawn: 10.
+2025-01-08 @ 21-45-32:  [InitializeAirDropAircraft] Aircraft Initialized: Player Called @ 12385.9/9221.15 (false)
+2025-01-08 @ 21-45-49:  [EOnSpawnZombies] Zombie Spawned [1] ZmbM_PatrolNormal_Flat @ <12409.630859, 23.518066, 9246.485352>
+2025-01-08 @ 21-46-06:  [EOnSpawnZombies] Zombie Spawned [2] ZmbM_PatrolNormal_PautRev @ <12382.978516, 26.172186, 9205.411133>
+2025-01-08 @ 21-46-24:  [EOnSpawnZombies] Zombie Spawned [3] ZmbM_SoldierNormal @ <12356.408203, 28.994755, 9214.350586>
+2025-01-08 @ 21-46-41:  [EOnSpawnZombies] Zombie Spawned [4] ZmbM_PatrolNormal_Flat @ <12377.884766, 26.368876, 9225.223633>
+2025-01-08 @ 21-46-58:  [EOnSpawnZombies] Zombie Spawned [5] ZmbM_PatrolNormal_Autumn @ <12419.402344, 22.993690, 9182.778320>
+2025-01-08 @ 21-47-16:  [EOnSpawnZombies] Zombie Spawned [6] ZmbM_PatrolNormal_Summer @ <12424.586914, 22.596701, 9180.750977>
+2025-01-08 @ 21-47-33:  [EOnSpawnZombies] Zombie Spawned [7] ZmbM_PatrolNormal_Autumn @ <12388.108398, 25.629862, 9238.272461>
+2025-01-08 @ 21-47-50:  [EOnSpawnZombies] Zombie Spawned [8] ZmbM_PatrolNormal_PautRev @ <12400.696289, 25.148556, 9208.998047>
+2025-01-08 @ 21-48-05:  [EOnBeforeDrop] The Aircraft is 1 Km from the called location, from the West (291°). @ <10987.313477, 242.693878, 9760.159180>
+2025-01-08 @ 21-48-07:  [EOnSpawnZombies] Zombie Spawned [9] ZmbM_PatrolNormal_Summer @ <12366.363281, 28.306362, 9205.428711>
+2025-01-08 @ 21-48-24:  [EOnDrop] Drop spawned with 10 infected at <12384.522461, 134.128998, 9212.368164>.
+2025-01-08 @ 21-48-24:  [EOnDrop] Supplies have been dropped near called location.
+2025-01-08 @ 21-49-06:  [EOnBeforeDelete] Aircraft despawned @ <15360.326172, 152.000610, 8045.773438>
+2025-01-08 @ 21-49-06:  [EOnBeforeDelete] Aircraft has flown OFF the map.
+2025-01-08 @ 21-49-06:  [~AirdropPlane] Aircraft destroyed.
+2025-01-08 @ 21-49-06:  [~AirdropPlane] Aircraft log file closed.

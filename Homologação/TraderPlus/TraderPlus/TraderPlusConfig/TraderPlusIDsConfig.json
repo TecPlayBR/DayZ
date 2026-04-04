@@ -1,0 +1,129 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {
+            "Id": 0,
+            "Categories": [
+                "Vegetables",
+                "Packaged Food",
+                "Meat",
+                "Animal Parts",
+                "Drinks",
+				"Cooking & Hunting Supplies",
+				"Seeds & Lime"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 1,
+            "Categories": [
+                "Sidearms",
+                "Rifles",
+                "Shotguns",
+                "Submachine Guns",
+                "Assault Rifles",
+                "Sniper Rifles"
+            ],
+            "LicencesRequired": [
+				"CRAF"
+				],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 2,
+            "Categories": [
+                "Electronics",
+                "Fire & Lights",
+                "Hardware Supplies"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 3,
+            "Categories": [
+                "Medical Supplies",
+                "Medications"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 4,
+            "Categories": [
+                "Melee",
+				"BBP",
+				"BBP ItemPack",
+				"Base Building Letters"
+            ],
+            "LicencesRequired": [
+				"ALVARA"
+				],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 5,
+            "Categories": [
+			    "Vehicles",
+				"Vehicle Parts"
+            ],
+            "LicencesRequired": [
+				"CNH"
+			],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 6,
+            "Categories": [
+                "Glasses",
+                "Armbands",
+                "Gloves",
+                "Hats & Caps",
+                "Helmets",
+                "Masks",
+                "Shirts",
+                "Hoodies & Sweater",
+                "Vests",
+                "Jackets & Coats",
+                "Skirts & Dresses",
+                "Pants",
+                "Shoes & Boots",
+                "Ghillie",
+                "Holster & Pouches",
+                "Belt",
+                "Bags"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 7,
+            "Categories": [
+                "Magazines",
+                "Handguards",
+                "Buttstocks",
+                "Optics",
+                "Supressors",
+                "Compensators",
+                "Bayonets",
+                "Flashlights"
+            ],
+            "LicencesRequired": [
+				"CRAF"
+			],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 8,
+            "Categories": [
+			    "Grenades",
+                "Ammunition"
+            ],
+            "LicencesRequired": [
+				"CRAF"
+			],
+            "CurrenciesAccepted": []
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-01-08 @ 21-45-32] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Player Called @ <12385.916992, 2438.000000, 9221.145508>
+[EOnCallAirdrop] DropPoint Assigned: <12399.433594, 25.267471, 9209.575195> (±100m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NE2) border @ <0.000000, 2438.000000, 14067.148438>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 2.76865° / 291.368°, Text: 'West (291°)'
+[EOnCallAirdrop] Aircraft Dispatched to player @ 0/14067.1 from the West (291°).
+[EOnCallAirdrop] Next Scehduled Drop: 5 minutes (5/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-01-08 @ 21-47-57] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Berezino @ <12450.000000, 2438.000000, 9250.000000>
+[EOnCallAirdrop] DropPoint Assigned: <12432.970703, 21.238741, 9255.952148> (±100m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NE2) border @ <0.000000, 2438.000000, 8448.539063>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -3.07731° / 266.317°, Text: 'West (266°)'
+[EOnCallAirdrop] Aircraft Dispatched to Berezino (0/8448.54), from the West (266°).
+[EOnCallAirdrop] Next Scehduled Drop: 5 minutes (5/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-01-08 @ 21-52-56] ----------------------------------------------------------------------------------------------------

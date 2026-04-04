@@ -1,0 +1,25 @@
+Códigos executados:
+
+Para o arquivo do TraderPlus especificamente o TraderPlusPrice
+
+"RFWC_Seadoo_Camo,1,-1,0,11000,5000"
+
+Este método adiciona o barco Jetski que realizamos no vídeo, o seguimento é o mesmo
+Primeiro adiciona "" dentro delas todo o conteúdo vai seguir ou seja o nome do objeto seguido pelo padrão 1,-1 e 0 -> Só vai ser 0 para veículos pois trata-se da quantidade e após os dois últimos preço de compra e preço de venda.
+
+Código do cfgeconomycore.xml
+
+<!--Mods dos Barcos Início-->
+<ce folder="MaharlikaPHBoats_ce">
+    <file name="maharlikaph_boats_types.xml" type="types" />
+</ce>
+<!--Mods dos Barcos Fim-->
+
+A pasta está nos arquivo de como configurei o _ce por gentileza verifique a pasta com o seguinte nome: MaharlikaPHBoats_ce
+
+Pode jogar ela diretamente exatamente como ela se encontra dentro da raiz do seu mapa ou seja com o seguimento: F:\DayZ-Homolog\mpmissions\dayzOffline.chernarusplus
+Exatamente conforme orientado no vídeo
+
+Boa sorte com a configuração, abraços do Tec <3
+
+Qualquer coisa lembre-se do meu contato no instagram e Whatsapp e qualquer coisa, temos a nossa comunidade no discord, tenha um excelente dia!

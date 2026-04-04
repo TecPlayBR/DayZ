@@ -1,0 +1,16 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-01-08 @ 21-34-25] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Berezino @ <12450.000000, 2438.000000, 9250.000000>
+[EOnCallAirdrop] DropPoint Assigned: <12401.093750, 25.218529, 9213.879883> (±100m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NE2) border @ <0.000000, 2438.000000, 5615.796387>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -2.85758° / 253.727°, Text: 'West (254°)'
+[EOnCallAirdrop] Aircraft Dispatched to Berezino (0/5615.8), from the West (254°).
+[EOnCallAirdrop] Next Scehduled Drop: 5 minutes (5/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-01-08 @ 21-39-24] ----------------------------------------------------------------------------------------------------

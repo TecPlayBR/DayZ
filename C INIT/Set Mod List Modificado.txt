@@ -1,0 +1,25 @@
+steamProtocolMaxDataSize = 8192;  // Linha de código do serverDZ.cfg
+
+-----------------------------------------------------------------------------
+Trecho de código para o start.bat afim de substituir o modlist original
+
+:: Habilita a expansão de variáveis
+setlocal enabledelayedexpansion
+
+:: Inicializa a variável modList com o prefixo correto (sem -mod repetido)
+set modList=
+
+:: Itera sobre o arquivo de mods e construa a lista
+for /f "delims=" %%i in (modlist.txt) do (
+    set modList=!modList!%%i;
+)
+
+:: Remove o ponto e vírgula extra no final
+set modList=!modList:~0,-1!
+
+:: Adiciona o -mod no início e as aspas no começo e no fim
+set modList="-mod=!modList!"
+
+:: Exibe a lista de mods montada para conferir
+echo !modList!
+pause

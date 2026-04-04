@@ -1,0 +1,39 @@
+2025-01-08 @ 21-48-24:  [InitializeContainer] Winds: Vector <0.000000, 0.000000, 0.100000>, Speed 0.1mps, Strength 0.1
+2025-01-08 @ 21-48-24:  [InitializeContainer] Parachute created on @ <12384.522461, 134.128998, 9212.368164>
+2025-01-08 @ 21-48-40:  [AirdropContainerFall] Airdrop Container Touchdown @ <12384.522461, 27.027939, 9212.368164>
+2025-01-08 @ 21-48-40:  [ADU_RemoveParachute] Parachute removed.
+2025-01-08 @ 21-48-40:  [ADU_RepositionContainer] Container repositioned.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Drop Type 'Military West', Container: 'RANDOM', Mode/Quantity/Iems: Random/30/40, Flare:  10%
+2025-01-08 @ 21-48-40:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Bluerock (Printine) @ <12384.031250, 26.254734, 9209.269531> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] Battery9V (Worn) @ <12383.130859, 26.377779, 9211.381836> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] Mag_FNX45_15Rnd (Printine) @ <12381.989258, 26.478275, 9210.960938> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] USMCJacket_Woodland (Printine) @ <12387.158203, 26.044846, 9211.038086> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] Binoculars (Printine) @ <12383.487305, 26.348337, 9213.683594> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] UKAssVest_Camo (Printine) @ <12382.437500, 26.435894, 9210.958008> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] UniversalLight (Printine) @ <12384.042969, 26.302397, 9210.668945> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] USMCPants_Woodland (Worn) @ <12382.895508, 26.397230, 9213.365234> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] UKAssVest_Camo (Printine) @ <12387.688477, 26.034777, 9213.033203> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] AssaultBag_Ttsko (Printine) @ <12385.222656, 26.216503, 9215.025391> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] M4_CQBBttstck (Worn) @ <12386.729492, 26.084867, 9213.367188> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] TacticalBaconCan (Printine) @ <12386.415039, 26.106300, 9212.141602> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] M9A1_Bayonet (Worn) @ <12383.022461, 26.386786, 9211.571289> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] Binoculars (Worn) @ <12385.509766, 26.181152, 9213.972656> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] Battery9V (Printine) @ <12385.302734, 26.199282, 9214.717773> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] WeaponCleaningKit (Worn) @ <12386.951172, 26.061951, 9212.631836> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] CanOpener (Printine) @ <12381.818359, 26.494482, 9214.534180> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] UniversalLight (Worn) @ <12386.363281, 26.189995, 9215.336914> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] TacticalGoggles (Worn) @ <12382.374023, 26.441874, 9212.001953> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] TacticalGoggles (Printine) @ <12385.399414, 26.230778, 9215.467773> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] Binoculars (Printine) @ <12385.987305, 26.141645, 9213.232422> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Black (Worn) @ <12381.093750, 26.563038, 9211.798828> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] CanOpener (Printine) @ <12387.201172, 26.041288, 9212.294922> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] USMCPants_Desert (Printine) @ <12385.852539, 26.163065, 9214.366211> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] UKAssVest_Olive (Printine) @ <12386.696289, 26.105665, 9213.787109> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] Battery9V (Worn) @ <12385.385742, 26.191370, 9210.221680> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] UKAssVest_Khaki (Printine) @ <12383.715820, 26.329416, 9210.249023> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Brown (Worn) @ <12387.331055, 26.038187, 9212.831055> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] UKAssVest_Camo (Printine) @ <12383.963867, 26.308907, 9213.875000> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  [ADU_SpawnItems] Loot Spawned [0] MilitaryBoots_Brown (Printine) @ <12381.500000, 26.524643, 9213.744141> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-48-40:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 21-48-40:  [EOnSimulate] Airdrop Container deactivated.

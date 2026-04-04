@@ -1,0 +1,95 @@
+Creation Time: 2025_1_3-18-23-48
+18-23-48 | [INFO] | SafeZoneCore - Started !
+18-23-48 | [INFO] | DEBUG MODE ENABLED
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Vegetables.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Packaged Food.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Meat.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Animal Parts.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Drinks.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Cooking & Hunting Supplies.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Seeds & Lime.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sidearms.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Rifles.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Shotguns.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Submachine Guns.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Assault Rifles.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sniper Rifles.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Electronics.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Fire & Lights.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Hardware Supplies.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Medical Supplies.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Medications.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Melee.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\BBP.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\BBP ItemPack.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Base Building Letters.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Vehicles.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_5\Vehicle Parts.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Glasses.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Armbands.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Gloves.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Hats & Caps.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Helmets.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Masks.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Shirts.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Hoodies & Sweater.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Vests.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Jackets & Coats.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Skirts & Dresses.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Pants.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Shoes & Boots.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Ghillie.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Holster & Pouches.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Belt.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_6\Bags.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Magazines.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Handguards.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Buttstocks.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Optics.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Supressors.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Compensators.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Bayonets.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_7\Flashlights.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Grenades.json
+18-24-37 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_8\Ammunition.json
+18-24-37 | [INFO] | obj created: SurvivorM_Elias
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorM_Denis
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorF_Eva
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorF_Frida
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorM_Boris
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorM_Lewis
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorF_Maria
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorM_Seth
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorM_Niki
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: SurvivorM_Lewis
+18-24-37 | [INFO] | TraderPlayer created and added!: 
+18-24-37 | [INFO] | obj created: TraderPlus_BANK_ATM
+18-24-37 | [INFO] | TraderStatic created and added!: 
+18-24-37 | [ERROR] | obj was not created: bldr_Misc_CrashBarrier please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Misc_CrashBarrier please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Misc_RoadBarrier please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Wall_Barricade1_10 please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Wall_Barricade1_4 please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Misc_Barricade please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Wall_Barricade1_4 please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Wall_Barricade1_10 please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_Wall_Barricade1_4 please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+18-24-37 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+18-24-37 | [INFO] | DefaultTraderStock - Started
+18-26-17 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_885118530.json
+18-26-21 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_885118530.json
+18-26-26 | [INFO] | TraderID: 5 - Customer: Survivor - Category: Vehicles - ClassName: Truck_01_Covered_Blue - Quantity: 0 - Multiplier: 1 - MaxStock: -1 - Health: 0 - Price: 50000 - CollateralMoney: 0 - TradeMode:Buy
+18-26-26 | [INFO] | Player:Survivor - currency amount:122000
+18-26-26 | [INFO] | Transaction Buy Succeeded:Survivor product:Truck_01_Covered_Blue quantity:0 health:0 price:50000

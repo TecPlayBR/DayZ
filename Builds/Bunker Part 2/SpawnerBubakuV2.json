@@ -1,0 +1,73 @@
+{
+    "loglevel": 0,
+    "BubakLocations": [
+        {
+            "name": "trigger1",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "1683 457 14219",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "1683 457 14219",
+                "1684 457 14218"
+            ],
+            "spawnradius": 0.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Bunker",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "13729.7 11.4988 10015.5",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 7.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Vamos jogar um jogo!",
+            "notificationtime": 3,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "13720.9 6.49246 10016.1",
+                "13708.4, 6.48971, 10016.5",
+                "13708.3, 6.48971, 9993.74",
+                "13721.3, 6.49208, 9993.55"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        }
+    ]
+}

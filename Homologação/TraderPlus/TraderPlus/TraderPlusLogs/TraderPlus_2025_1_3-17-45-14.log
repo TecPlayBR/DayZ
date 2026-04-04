@@ -1,0 +1,54 @@
+Creation Time: 2025_1_3-17-45-14
+17-45-14 | [INFO] | SafeZoneCore - Started !
+17-45-14 | [INFO] | DEBUG MODE ENABLED
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Vegetables.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Packaged Food.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Meat.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Animal Parts.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Drinks.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Cooking & Hunting Supplies.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_0\Seeds & Lime.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sidearms.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Rifles.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Shotguns.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Submachine Guns.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Assault Rifles.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_1\Sniper Rifles.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Electronics.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Fire & Lights.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_2\Hardware Supplies.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Medical Supplies.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_3\Medications.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Melee.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\BBP.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\BBP ItemPack.json
+17-46-4 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusDatabase\ID_4\Base Building Letters.json
+17-46-4 | [INFO] | obj created: SurvivorM_Elias
+17-46-4 | [INFO] | TraderPlayer created and added!: 
+17-46-4 | [INFO] | obj created: SurvivorM_Denis
+17-46-4 | [INFO] | TraderPlayer created and added!: 
+17-46-4 | [INFO] | obj created: SurvivorF_Eva
+17-46-4 | [INFO] | TraderPlayer created and added!: 
+17-46-4 | [INFO] | obj created: SurvivorF_Frida
+17-46-4 | [INFO] | TraderPlayer created and added!: 
+17-46-4 | [INFO] | obj created: SurvivorM_Boris
+17-46-4 | [INFO] | TraderPlayer created and added!: 
+17-46-4 | [INFO] | obj created: TraderPlus_BANK_ATM
+17-46-4 | [INFO] | TraderStatic created and added!: 
+17-46-4 | [ERROR] | obj was not created: bldr_Misc_CrashBarrier please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Misc_CrashBarrier please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Misc_RoadBarrier please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Wall_Barricade1_10 please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Wall_Barricade1_4 please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Misc_Barricade please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Wall_Barricade1_4 please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Wall_Barricade1_10 please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_Wall_Barricade1_4 please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+17-46-4 | [ERROR] | obj was not created: bldr_hbarrier_4m please make sure the syntaxe is correct!
+17-46-4 | [INFO] | DefaultTraderStock - Started
+17-46-43 | [INFO] | GetSafeStatut
+17-46-46 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_885118530.json
+17-46-56 | [INFO] | TraderPlusJsonLoader::LoadFromFile Loaded file: $profile:TraderPlus\TraderPlusGarageDatabase\Garage_885118530.json

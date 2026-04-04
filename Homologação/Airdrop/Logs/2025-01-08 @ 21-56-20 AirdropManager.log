@@ -1,0 +1,34 @@
+[ClearOldAirdropFiles] Backups Cleanup Started.
+[ClearOldAirdropFiles] Backups Cleanup Completed.
+[ClearOldAirdropFiles] Logs Cleanup Completed.
+[ExportDropZones] DropZone exported not bypassed.
+[AirdropBase] Base class created & settings loaded.
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Survivor).
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-01-08 @ 21-59-22] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Player Called @ <2695.642090, 2438.000000, 1310.601074>
+[EOnCallAirdrop] DropPoint Assigned: <2714.189697, 6.294967, 1338.465210> (±100m).
+[EOnCallAirdrop] Aircraft Spawn Point: Eastern (SW2) border @ <15360.000000, 2438.000000, 10778.297852>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: 0.641954° / 53.2187°, Text: 'North/East (053°)'
+[EOnCallAirdrop] Aircraft Dispatched to player @ 15360/10778.3 from the North/East (053°).
+[EOnCallAirdrop] Next Scehduled Drop: 5 minutes (5/±0) .
+[EOnCallAirdrop] Airdrop called within Operational Flight Hours (From 0000 to 2359)!
+[2025-01-08 @ 22-02-00] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] DropZone Asigned: Berezino @ <12450.000000, 2438.000000, 9250.000000>
+[EOnCallAirdrop] DropPoint Assigned: <12446.314453, 20.034857, 9262.845703> (±100m).
+[EOnCallAirdrop] Aircraft Spawn Point: Western (NE2) border @ <0.000000, 2438.000000, 1894.745239>)
+[EOnCallAirdrop] Aircraft Type Called: Land_AN_12
+[EOnCallAirdrop] Aircraft Heading/Bearing: -2.60798° / 239.426°, Text: 'South/West (239°)'
+[EOnCallAirdrop] Aircraft Dispatched to Berezino (0/1894.75), from the South/West (239°).
+[EOnCallAirdrop] Next Scehduled Drop: 5 minutes (5/±0) .
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!
+[EOnCallAirdrop] Not enough player to activate Airdrops (Players 0, Minimum 1)!

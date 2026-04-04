@@ -1,0 +1,17 @@
+set serverMods="-servermod=@Survivor Missions"
+
+%serverMods%
+
+mpmissions\dayzOffline.chernarusplus\SurvivorMissionModule\Missions
+
+Formato Correto que deve estar
+#include "$CurrentDir:\\mpmissions\dayzOffline.chernarusplus\SurvivorMissionModule\Missions\\Apartment.c"
+
+Formato Correto Do MissionSettings.c
+#include "$CurrentDir:\\mpmissions\dayzOffline.chernarusplus\SurvivorMissionModule\\EventsWorldData_chernarusplus.c"
+#include "$CurrentDir:\\mpmissions\dayzOffline.chernarusplus\SurvivorMissionModule\Missions\\Missions.h"
+
+Trecho para pesquisar nos logs scripts do profiles
+Initializing SurvivorMissions
+
+- Não esqueça de dar um ctrl+f para pesquisar o trecho acima

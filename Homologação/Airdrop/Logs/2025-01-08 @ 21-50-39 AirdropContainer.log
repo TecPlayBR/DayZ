@@ -1,0 +1,34 @@
+2025-01-08 @ 21-50-39:  [InitializeContainer] Winds: Vector <-1.110620, 0.000000, 1.796999>, Speed 2.11251mps, Strength 0.1
+2025-01-08 @ 21-50-39:  [InitializeContainer] Parachute created on @ <12451.227539, 132.309723, 9257.039063>
+2025-01-08 @ 21-50-55:  [AirdropContainerFall] Airdrop Container Touchdown @ <12451.227539, 20.308723, 9257.039063>
+2025-01-08 @ 21-50-55:  [ADU_RemoveParachute] Parachute removed.
+2025-01-08 @ 21-50-55:  [ADU_RepositionContainer] Container repositioned.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Drop Type 'Military East', Container: 'RANDOM', Mode/Quantity/Iems: Random/25/28, Flare:  10%
+2025-01-08 @ 21-50-55:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Green (Printine) @ <12452.017578, 19.428980, 9258.459961> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGoggles (Worn) @ <12453.511719, 19.237337, 9255.591797> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Black (Printine) @ <12453.514648, 19.255808, 9257.005859> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Beige (Printine) @ <12451.642578, 19.472075, 9258.808594> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x39_20Rnd (Printine) @ <12452.356445, 19.351175, 9255.240234> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Green (Printine) @ <12448.924805, 19.696198, 9255.168945> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] AK_Suppressor (Printine) @ <12451.800781, 19.474148, 9260.184570> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] GorkaEJacket_Autumn (Printine) @ <12448.955078, 19.699032, 9255.788086> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] GorkaPants_PautRev (Printine) @ <12448.415039, 19.791233, 9259.004883> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Green (Printine) @ <12449.280273, 19.712095, 9259.125977> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] UniversalLight (Printine) @ <12449.189453, 19.700413, 9257.608398> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] GorkaEJacket_Autumn (Worn) @ <12449.956055, 19.605358, 9255.849609> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] AK_Suppressor (Worn) @ <12448.587891, 19.754406, 9257.447266> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] AKM (Printine) @ <12452.748047, 19.361004, 9258.987305> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] GorkaEJacket_Summer (Printine) @ <12453.421875, 19.246145, 9255.561523> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalBaconCan (Printine) @ <12452.174805, 19.368563, 9255.141602> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TTsKOJacket_Camo (Worn) @ <12454.209961, 19.185516, 9257.083984> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] AmmoBox_762x39_20Rnd (Printine) @ <12450.142578, 19.588678, 9256.000000> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] UniversalLight (Printine) @ <12449.067383, 19.721676, 9258.351563> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Beige (Worn) @ <12450.975586, 19.485119, 9254.749023> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] GorkaEJacket_Summer (Worn) @ <12452.552734, 19.339214, 9255.851563> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] Binoculars (Worn) @ <12453.261719, 19.240810, 9254.234375> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TTsKOJacket_Camo (Printine) @ <12452.828125, 19.340488, 9258.069336> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] AK_Bayonet (Worn) @ <12448.613281, 19.734186, 9255.993164> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  [ADU_SpawnItems] Loot Spawned [0] TacticalGloves_Green (Printine) @ <12448.806641, 19.708786, 9255.286133> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 21-50-55:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 21-50-55:  [EOnSimulate] Airdrop Container deactivated.

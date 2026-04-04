@@ -1,0 +1,41 @@
+2025-01-08 @ 22-05-08:  [InitializeContainer] Winds: Vector <-0.000002, 0.000000, -13.035849>, Speed 13.0358mps, Strength 0.1
+2025-01-08 @ 22-05-08:  [InitializeContainer] Parachute created on @ <12444.416016, 134.099976, 9261.580078>
+2025-01-08 @ 22-05-24:  [AirdropContainerFall] Airdrop Container Touchdown @ <12444.416016, 20.873943, 9261.580078>
+2025-01-08 @ 22-05-24:  [ADU_RemoveParachute] Parachute removed.
+2025-01-08 @ 22-05-24:  [ADU_RepositionContainer] Container repositioned.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Drop Type 'Medical', Container: 'RANDOM', Mode/Quantity/Iems: Random/30/33, Flare:  10%
+2025-01-08 @ 22-05-24:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] BloodBagIV (Printine) @ <12446.724609, 19.971554, 9260.692383> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] DisinfectantAlcohol (Printine) @ <12445.056641, 20.114170, 9259.613281> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsHat_Blue (Worn) @ <12446.458984, 19.996555, 9260.708984> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsShirt_Green (Worn) @ <12447.555664, 19.899693, 9261.122070> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] SurgicalGloves_White (Worn) @ <12442.904297, 20.357321, 9264.408203> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] SurgicalGloves_White (Worn) @ <12443.487305, 20.299919, 9263.293945> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] SurgicalGloves_White (Printine) @ <12442.059570, 20.410583, 9260.310547> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] BandageDressing (Printine) @ <12443.895508, 20.228170, 9259.720703> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] Rag (Printine) @ <12443.173828, 20.327940, 9262.843750> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsHat_Blue (Worn) @ <12444.999023, 20.110981, 9258.669922> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] SalineBag (Printine) @ <12442.011719, 20.430750, 9261.986328> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] SurgicalGloves_Green (Printine) @ <12443.558594, 20.248882, 9258.426758> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsHat_White (Printine) @ <12445.453125, 20.118229, 9263.958008> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] Morphine (Printine) @ <12443.009766, 20.342354, 9262.512695> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] DisinfectantSpray (Printine) @ <12442.928711, 20.343369, 9261.981445> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] DisinfectantAlcohol (Printine) @ <12442.172852, 20.414951, 9261.904297> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsHat_White (Worn) @ <12443.169922, 20.306381, 9260.529297> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] Epinephrine (Worn) @ <12444.038086, 20.203650, 9258.583008> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsShirt_White (Printine) @ <12443.453125, 20.270323, 9259.625977> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] BandageDressing (Worn) @ <12442.675781, 20.377512, 9264.000977> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] VitaminBottle (Worn) @ <12443.271484, 20.318596, 9262.735352> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsPants_Green (Printine) @ <12442.865234, 20.316698, 9258.464844> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] PurificationTablets (Printine) @ <12443.892578, 20.228189, 9259.694336> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] SurgicalGloves_Blue (Printine) @ <12443.193359, 20.302961, 9260.411133> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsPants_Blue (Worn) @ <12445.716797, 20.095537, 9264.676758> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] WaterBottle (Printine) @ <12443.622070, 20.250816, 9259.291992> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] MedicalScrubsShirt_Green (Printine) @ <12443.083008, 20.298019, 9258.735352> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] SalineBag (Printine) @ <12443.489258, 20.267002, 9259.642578> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] WaterBottle (Worn) @ <12446.549805, 19.973631, 9259.624023> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  [ADU_SpawnItems] Loot Spawned [0] PurificationTablets (Printine) @ <12446.991211, 19.930956, 9259.511719> ... Lifespan:  Set to 30 minutes.
+2025-01-08 @ 22-05-24:  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-01-08 @ 22-05-24:  [EOnSimulate] Airdrop Container deactivated.
+2025-01-08 @ 22-35-08:  [~AirdropContainerBase] Log file closed.
+2025-01-08 @ 22-35-08:  [~AirdropContainerBase] Container Destroyed.
