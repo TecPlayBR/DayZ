@@ -45,3 +45,14 @@ Todo o material aqui disponibilizado está relacionado aos conteúdos publicados
 ━━━━━━━━━━━━━━━━━━━━━━
 
 💬 Objetivo principal: compartilhar conhecimento, não limitar acesso.
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🖼️ TECZ | IMAGENS PÚBLICAS PARA STEAM WORKSHOP
+
+Além dos tutoriais, mantemos uma área reservada para as artes públicas do servidor TECZ, reutilizadas nas descrições dos modpacks da Steam e futuramente no website.
+
+• [Abrir a biblioteca de imagens TECZ](TECZ/SteamWorkshop/README.md)  
+• [Modelo de descrição Steam em inglês (BBCode)](TECZ/SteamWorkshop/Steam-BBCode-Template.md)  
+• Uma única capa oficial `TECZ MODPACK` para todos os pacotes  
+• Somente conteúdo visual público e autorizado, sem arquivos comerciais ou configurações privadas  
