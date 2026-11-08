@@ -37,8 +37,15 @@ This package contains content used by the TECZ DayZ server. The contents, requir
 [h2]Credits & Permissions[/h2]
 Credit all applicable creators and respect the distribution terms for any third-party content. Do not repack or redistribute assets without permission.
 
-[h2]Support[/h2]
-Official community links will be added after confirmation.
+[h2]Official TECZ Community[/h2]
+[URL=https://discord.gg/UxDwHUGnRy]Join the official TECZ Discord[/URL]
+
+[h2]Tecplay | Project & Social Channels[/h2]
+[URL=https://www.tecplay.inf.br/]Official Website[/URL]
+[URL=https://www.youtube.com/@TecPlay_BR]YouTube[/URL]
+[URL=https://www.instagram.com/tecplay.cxs/]Instagram[/URL]
+[URL=https://www.tiktok.com/@tecplay.caxias]TikTok[/URL]
+[URL=https://github.com/TecPlayBR/DayZ]GitHub | DayZ Resources[/URL]
 ```
 
 ## Observações
@@ -48,3 +55,5 @@ Official community links will be added after confirmation.
 - No corpo da descrição, use sempre links diretos a arquivos reais e públicos.
 - Se o GitHub raw não renderizar na Steam, testar um host de imagens dedicado ou servir as imagens por domínio próprio.
 - Não incluir informações não comprovadas sobre LBMasterMods, SpardaMods ou HunterMods.
+- O Discord `discord.gg/UxDwHUGnRy` é do **servidor TECZ**, não da comunidade geral Tecplay.
+- YouTube, Instagram, TikTok, site e GitHub são canais da **Tecplay**, não perfis separados do TECZ. URLs fornecidas pelo responsável pelo projeto; a acessibilidade das páginas pode exigir teste manual no navegador.
